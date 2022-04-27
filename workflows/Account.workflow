@@ -5,8 +5,7 @@
         <active>false</active>
         <criteriaItems>
             <field>Account.Active__c</field>
-            
-            <operation>equals</operation>
+             <operation>equals</operation>
             <value>Yes</value>
         </criteriaItems>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
