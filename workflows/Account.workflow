@@ -5,6 +5,7 @@
         <active>false</active>
         <criteriaItems>
             <field>Account.Active__c</field>
+            <field>Account.Krishna__c</field>
              <operation>equals</operation>
             <value>Yes</value>
         </criteriaItems>
